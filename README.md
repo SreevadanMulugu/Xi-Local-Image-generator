@@ -24,11 +24,17 @@ Here is a breif intro about the project
 7. **Background Loading**: While the splash screen is displayed, the application loads quietly in the background, ensuring a seamless user experience.
 
    
-   Splash screen :
+  
    ![image](https://github.com/SreevadanMulugu/Xi-Local-Image-generator/assets/64011908/9807f2de-82df-4ca1-aebc-1e5d36acc6ff)
 
-   Application :
+
+   _Fig 1  Splash screen_
+
+   
    ![image](https://github.com/SreevadanMulugu/Xi-Local-Image-generator/assets/64011908/176241fb-47de-4159-95c8-eaa1144f3514)
+
+
+    _Fig 2 Application_
 
 
 
